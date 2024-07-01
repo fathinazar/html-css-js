@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+    color:blueviolet;
+}
+a{
+    text: indent 10px;
+}
+#a2{
+    text-decoration:solid;
+    color: blue;
+}
+.list1{
+    background-color: aqua;
+}
+.grp1{
+    background-color: cadetblue;
+    border:1px solid red;
+    padding: 10px 30px 40px 20px;
+    margin: 30% 40% 30% 20%;
+}
